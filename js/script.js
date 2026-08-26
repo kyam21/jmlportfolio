@@ -34,9 +34,10 @@ const projects = {
 
         images: [
             "assets/projects/pawtect/dashboard.jpg",
-            "assets/projects/pawtect/register.jpg",
-            "assets/projects/pawtect/hardware.jpg"
-        ],
+            "assets/projects/pawtect/register.png",
+            "assets/projects/pawtect/hardware.jfif",
+            "assets/projects/pawtect/conceptual.png"
+        ], 
 
         resources: [
             {
