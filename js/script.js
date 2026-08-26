@@ -26,6 +26,7 @@ const projects = {
             "Python",
             "Flask",
             "SQL",
+            "API",
             "Raspberry Pi",
             "Computer Vision",
             "LoRa",
@@ -36,7 +37,7 @@ const projects = {
             "assets/projects/pawtect/dashboard.jpg",
             "assets/projects/pawtect/register.png",
             "assets/projects/pawtect/hardware.jfif",
-            "assets/projects/pawtect/conceptual.png"
+            "assets/projects/pawtect/conceptual.jpg"
         ], 
 
         resources: [
