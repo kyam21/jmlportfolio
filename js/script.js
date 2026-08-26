@@ -34,9 +34,6 @@ const projects = {
         ],
 
         images: [
-            "assets/projects/pawtect/dashboard.jpg",
-            "assets/projects/pawtect/register.png",
-            "assets/projects/pawtect/hardware.jfif",
             "assets/projects/pawtect/conceptual.jpg"
         ], 
 

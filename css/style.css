@@ -539,8 +539,7 @@ a {
 .project-featured-image img {
     width: 100%;
     height: 100%;
-    object-fit: cover; /* Fills container while preserving ratio */
-    object-position: top center; /* Centers the focus of the crop */
+    object-fit: fill; /* Distorts image to fill exact bounds */
     display: block;
     transition: transform 0.5s ease;
 }
