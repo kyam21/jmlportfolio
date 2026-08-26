@@ -181,7 +181,7 @@ const projects = {
         ],
 
         images: [
-            "assets/projects/barangay-census/main.jpg"
+            "assets/projects/barangay-census/main.png"
         ],
 
         resources: []
